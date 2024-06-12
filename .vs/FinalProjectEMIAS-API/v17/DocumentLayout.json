@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\analysdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\analysdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\directionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\directionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\researchdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\researchdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\specialitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\specialitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\analysdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\analysdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\appointmentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\appointmentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\finalprojectemiascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\finalprojectemiascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\researchdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\researchdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\speciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|c:\\users\\efimb\\source\\repos\\finalprojectemias-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B849A031-E041-41FD-BB64-869F1BBB04EC}|FinalProjectEMIAS-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T18:45:04.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResearchDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\ResearchDocumentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResearchDocumentsController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\ResearchDocumentsController.cs",
+              "RelativeToolTip": "Controllers\\ResearchDocumentsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:35:33.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:34:55.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:34:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DirectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\DirectionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DirectionsController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\DirectionsController.cs",
+              "RelativeToolTip": "Controllers\\DirectionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:34:03.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:33:28.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalysDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\AnalysDocumentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnalysDocumentsController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\AnalysDocumentsController.cs",
+              "RelativeToolTip": "Controllers\\AnalysDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:33:03.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:32:33.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpecialitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\SpecialitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpecialitiesController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\SpecialitiesController.cs",
+              "RelativeToolTip": "Controllers\\SpecialitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:36:00.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:36:27.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:44:16.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnalysDocument.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\AnalysDocument.cs",
+              "RelativeDocumentMoniker": "Models\\AnalysDocument.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\AnalysDocument.cs",
+              "RelativeToolTip": "Models\\AnalysDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:44:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:44:05.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentDocument.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\AppointmentDocument.cs",
+              "RelativeDocumentMoniker": "Models\\AppointmentDocument.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\AppointmentDocument.cs",
+              "RelativeToolTip": "Models\\AppointmentDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:44:01.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Direction.cs",
+              "RelativeDocumentMoniker": "Models\\Direction.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Direction.cs",
+              "RelativeToolTip": "Models\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:43:55.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:43:51.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:43:38.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResearchDocument.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\ResearchDocument.cs",
+              "RelativeDocumentMoniker": "Models\\ResearchDocument.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\ResearchDocument.cs",
+              "RelativeToolTip": "Models\\ResearchDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:43:32.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Speciality.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Speciality.cs",
+              "RelativeDocumentMoniker": "Models\\Speciality.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Speciality.cs",
+              "RelativeToolTip": "Models\\Speciality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:43:24.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:43:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:37:01.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinalProjectEmiasContext.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\FinalProjectEmiasContext.cs",
+              "RelativeDocumentMoniker": "Models\\FinalProjectEmiasContext.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\FinalProjectEMIAS-API\\Models\\FinalProjectEmiasContext.cs",
+              "RelativeToolTip": "Models\\FinalProjectEmiasContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:31:18.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
